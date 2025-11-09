@@ -1,0 +1,13 @@
+my-website/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── /images
+│    ├── logo.png
+│    └── background.jpg
+│
+└── /assets
+     ├── main.css
+     └── app.js
